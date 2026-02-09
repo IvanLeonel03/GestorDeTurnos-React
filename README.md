@@ -210,4 +210,4 @@ Este proyecto es para propósitos educativos y de portafolio.
 
 ## 👤 Autor
 
-Creado como proyecto de demostración de habilidades en desarrollo React.
+Ivan Cañete
